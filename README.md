@@ -52,13 +52,6 @@ A simple and responsive web application that helps users find recipes based on i
 
 ---
 
-## 🙏 Acknowledgements
 
-- [W3Schools](https://www.w3schools.com/) – For HTML, CSS, and JavaScript tutorials  
-- [MDN Web Docs](https://developer.mozilla.org/) – For JavaScript documentation  
-- [GitHub Pages](https://pages.github.com/) – For free hosting and deployment  
-- [Unsplash](https://unsplash.com/) and [Freepik](https://www.freepik.com/) – For free images  
-- [Stack Overflow](https://stackoverflow.com/) – For coding support
 
----
 
