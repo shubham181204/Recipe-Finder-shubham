@@ -23,20 +23,6 @@ A simple and responsive web application that helps users find recipes based on i
 
 ---
 
-## 🚀 How to Use
-
-1. Clone the repository  
-   `git clone https://github.com/pailamadhulatha2/Recipe-Finder`
-
-2. Open the folder and run `index.html` in your browser
-
-3. Type any ingredient in the search bar to find matching recipes
-
----
-
-
----
-
 ## 📈 Future Scope
 
 - User login and recipe saving  
@@ -49,9 +35,3 @@ A simple and responsive web application that helps users find recipes based on i
 - Multilingual support  
 - Recipe rating and reviews  
 - Mobile app version using React Native or Flutter
-
----
-
-
-
-
